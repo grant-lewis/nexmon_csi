@@ -1,3 +1,4 @@
+(11/12/2024): I got Nexmon working on the Raspberry Pi 5 with kernel version 6.6.51+rpt-rpi-v8. Once complete, this repository will include modifications to certain files specifically for deployment on the Raspberry Pi 5.
 
 ![NexMon logo](https://github.com/seemoo-lab/nexmon/raw/master/gfx/nexmon.png)
 
